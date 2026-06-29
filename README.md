@@ -99,5 +99,4 @@ O Caso 2 implementa processamento em lotes de 6 páginas por chamada, demonstran
 ## Autor
 
 **Marcello Siqueira**
-Pesquisador de IA Generativa (P&D)
 Desafio Técnico, Tech for Humans, junho de 2026
